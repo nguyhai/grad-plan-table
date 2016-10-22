@@ -1,1 +1,19 @@
+caption {font-size: 1.5em
+
+}
+
+.column {
+    background-color: #FF0000;
+    font-weight: bold;
+}
+
+.semester {
+    color: #0000ff;
+    background-color:#D3D3D3
+}
+
+.summary {
+    
+    background-color:#FFA500
+}
 
